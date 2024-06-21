@@ -11,15 +11,15 @@
 
 <!-- 🔭 I’m currently working on [Rentez](https://github.com/Ritexx/Rentez.git) -->
 - 🌱 I’m currently learning **React, Node.js**
-- 👨‍💻 All of my projects are available at [https://github.com/Ritexx](https://github.com/Ritexx)
+- 👨‍💻 All of my projects are available at [Dashboard](https://github.com/Ritexx)
 - 📫 How to reach me **ritexworks@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/r-ritesh/" target="blank">
+  <a href="https://www.linkedin.com/in/r-ritesh/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/r-ritesh/" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/https://leetcode.com/u/ritex_00/" target="blank">
+  <a href="https://leetcode.com/u/ritex_00/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ritex_00/" height="30" width="40" />
   </a>
 </p>
