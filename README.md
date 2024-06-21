@@ -9,7 +9,7 @@
 </p>
 
 
-- 🔭 I’m currently working on [Rentez](https://github.com/Ritexx/Rentez.git)
+<!-- 🔭 I’m currently working on [Rentez](https://github.com/Ritexx/Rentez.git) -->
 - 🌱 I’m currently learning **React, Node.js**
 - 👨‍💻 All of my projects are available at [https://github.com/Ritexx](https://github.com/Ritexx)
 - 📫 How to reach me **ritexworks@gmail.com**
