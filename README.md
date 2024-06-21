@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=ritexx&label=Profile%20views&color=0e75b6&style=flat" alt="ritexx" /> 
 </p>
 
-- 🔭 I’m currently working on [Rentez](https://github.com/Ritexx)
+<!-- 🔭 I’m currently working on [Rentez](https://github.com/Ritexx/Rentez/)-->
 - 🌱 I’m currently learning **React, Node.js**
 - 👨‍💻 All of my projects are available at [https://github.com/Ritexx](https://github.com/Ritexx)
 - 📫 How to reach me **ritexworks@gmail.com**
