@@ -23,7 +23,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ritex_00/" height="30" width="40" />
   </a>
 </p>
-
+<h3 align="left">Skills and Tools:</h3>
 <table>
   <tr>
     <td valign="top">
