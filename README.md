@@ -11,7 +11,7 @@
 
 <!-- 🔭 I’m currently working on [Rentez](https://github.com/Ritexx/Rentez.git) -->
 - 🌱 I’m currently learning **React, Node.js**
-- 👨‍💻 All of my projects are available at [Dashboard](https://github.com/Ritexx)
+- 👨‍💻 All of my projects are available at [Here](https://github.com/Ritexx?tab=repositories)
 - 📫 How to reach me **ritexworks@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
