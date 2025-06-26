@@ -10,7 +10,7 @@
 
 
 <!-- 🔭 I’m currently working on [Rentez](https://github.com/Ritexx/Rentez.git) -->
-- 🌱 I’m currently learning **React, Node.js**
+- 🌱 I’m currently learning **DevOps**
 - 👨‍💻 All of my projects are available at [Here](https://github.com/Ritexx?tab=repositories)
 - 📫 How to reach me **ritexworks@gmail.com**
 
